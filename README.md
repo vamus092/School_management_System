@@ -6,7 +6,7 @@
 
 $${\color{aqua}Features:\space}$$
 
--Student Management: Add, update, and delete student records.
+-Student Management: Add, update, and delete student records.\n
 -Teacher Management: Manage teacher details and assignments.
 -Course Management: Create and manage course offerings.
 -Attendance System: Record and monitor student attendance.
