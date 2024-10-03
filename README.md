@@ -16,7 +16,7 @@
 
 To run this application locally:
 
-🔗 *Clone the repository: git clone https://github.com/vamus092/school_management_system.git*
+🔗 ***Clone the repository:*** git clone https://github.com/vamus092/school_management_system.git*
 
 *Open the project in your preferred IDE.*
 Build and run the application.
