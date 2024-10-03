@@ -1,4 +1,3 @@
-e
 # $${\color{purple}School\space management\space System\space}$$ 
 *This project is a Java-based School Management System designed to streamline administrative tasks within educational institutions. It provides functionalities for managing students, teachers, courses, and attendance, aiming to simplify daily operations for school administrators.*
 
