@@ -16,7 +16,7 @@
 
 To run this application locally:
 
-*Clone the repository: git clone https://github.com/vamus092/school_management_system.git*
+🔗 *Clone the repository: git clone https://github.com/vamus092/school_management_system.git*
 *Open the project in your preferred IDE.*
 Build and run the application.
 
@@ -37,6 +37,6 @@ Build and run the application.
 
 *This project is licensed under the MIT License - see the LICENSE file for details.*
 
-# TechStack
+# ${\color{teal}TechStack:\space}$
 
 ![](https://img.shields.io/badge/JAVA-7a04eb)
