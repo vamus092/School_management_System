@@ -4,37 +4,39 @@
 
 
 
-${\color{aqua}Features:\space}$
+# ${\color{aqua}Features:\space}$
 
-Student Management: Add, update, and delete student records
+📌Student Management: Add, update, and delete student records with total fees paid & received
 
-Teacher Management: Manage teacher details and assignments.
+📌Teacher Management: Manage teacher id, name & salary
 
-Course Management: Create and manage course offerings.
+📌School Managementr: Teacher data, student data, total money earned & total money spent on salary
 
-Attendance System: Record and monitor student attendance.
-
-User Authentication: Administrators use a secure login system.
-
-${\color{aqua}Getting\space Started:\space}$
+# ${\color{aqua}Getting\space Started:\space}$
 
 To run this application locally:
 
-Clone the repository: git clone https://github.com/vamus092/school_management_system.git
-Open the project in your preferred IDE.
+*Clone the repository: git clone https://github.com/vamus092/school_management_system.git*
+*Open the project in your preferred IDE.*
 Build and run the application.
 
-${\color{aqua}\space Usage\space :\space}$
+# ${\color{aqua}\space Usage\space :\space}$
 
-Upon launching, log in as an administrator to access all features.
-Use the intuitive interface to navigate through student, teacher, and course management modules.
-Record attendance and view reports as needed.
+🟣Upon launching, log in as an administrator to access all features.
+
+🟣Use the intuitive interface to navigate through student, teacher, and course management modules.
+
+🟣Record attendance and view reports as needed.
 
 
-${\color{aqua}\space Contributing\space :\space}$
+# ${\color{aqua}\space Contributing\space :\space}$
 
-Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
+*Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project*
 
-${\color{aqua}\space License\space :\space}$
+# ${\color{aqua}\space License\space :\space}$
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+*This project is licensed under the MIT License - see the LICENSE file for details.*
+
+# TechStack
+
+![](https://img.shields.io/badge/JAVA-7a04eb)
