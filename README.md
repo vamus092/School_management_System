@@ -1,4 +1,4 @@
-
+e
 # $${\color{purple}School\space management\space System\space}$$ 
 *This project is a Java-based School Management System designed to streamline administrative tasks within educational institutions. It provides functionalities for managing students, teachers, courses, and attendance, aiming to simplify daily operations for school administrators.*
 
@@ -16,10 +16,10 @@
 
 To run this application locally:
 
-🔗 ***Clone the repository:*** git clone https://github.com/vamus092/school_management_system.git*
+🔗 ***Clone the repository:*** git clone https://github.com/vamus092/school_management_system.git
 
-*Open the project in your preferred IDE.*
-Build and run the application.
+*Open the project in your preferred IDE.
+Build and run the application.*
 
 # ${\color{aqua}\space Usage\space :\space}$
 
