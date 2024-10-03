@@ -6,11 +6,11 @@
 
 # ${\color{aqua}Features:\space}$
 
-📌Student Management: Add, update, and delete student records with total fees paid & received
+📌**Student Management:** Add, update, and delete student records with total fees paid & received
 
-📌Teacher Management: Manage teacher id, name & salary
+📌**Teacher Management:** Manage teacher id, name & salary
 
-📌School Managementr: Teacher data, student data, total money earned & total money spent on salary
+📌**School Management:** Teacher data, student data, total money earned & total money spent on salary
 
 # ${\color{aqua}Getting\space Started:\space}$
 
