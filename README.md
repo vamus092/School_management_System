@@ -4,15 +4,15 @@
 
 
 
-**$${\color{aqua}Features:\space}$$**
+$${\color{aqua}Features:\space}$$
 
 -Student Management: Add, update, and delete student records.
 -Teacher Management: Manage teacher details and assignments.
 -Course Management: Create and manage course offerings.
 -Attendance System: Record and monitor student attendance.
--User Authentication: Secure login system for administrators.
+-User Authentication: Administrators use a secure login system.
 
-**$${\color{aqua}Getting\space Started:\space}$$**
+$${\color{aqua}Getting\space Started:\space}$$
 
 To run this application locally:
 
