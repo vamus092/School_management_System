@@ -3,19 +3,17 @@ package school.management.system;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Rakshith on 4/3/2017.
- */
+
 public class Main {
     public static void main(String[] args) {
-        Teacher lizzy = new Teacher(1,"Lizzy",500);
-        Teacher mellisa = new Teacher(2,"Mellisa",700);
-        Teacher vanderhorn = new Teacher(3,"Vanderhorn",600);
+        Teacher Sam = new Teacher(1,"Sam",500);
+        Teacher Pam = new Teacher(2,"Pam",700);
+        Teacher Harry = new Teacher(3,"Harry",600);
 
         List<Teacher> teacherList = new ArrayList<>();
-        teacherList.add(lizzy);
-        teacherList.add(mellisa);
-        teacherList.add(vanderhorn);
+        teacherList.add(Sam);
+        teacherList.add(Pam);
+        teacherList.add(Harry);
 
 
         Student tamasha = new Student(1,"Tamasha",4);
@@ -42,20 +40,20 @@ public class Main {
         System.out.println("GHS has earned $"+ ghs.getTotalMoneyEarned());
 
         System.out.println("------Making SCHOOL PAY SALARY----");
-        lizzy.receiveSalary(lizzy.getSalary());
-        System.out.println("GHS has spent for salary to " + lizzy.getName()
+        Sam.receiveSalary(Sam.getSalary());
+        System.out.println("GHS has spent for salary to " + Sam.getName()
         +" and now has $" + ghs.getTotalMoneyEarned());
 
-        vanderhorn.receiveSalary(vanderhorn.getSalary());
-        System.out.println("GHS has spent for salary to " + vanderhorn.getName()
+        Harry.receiveSalary(Harry.getSalary());
+        System.out.println("GHS has spent for salary to " + Harry.getName()
                 +" and now has $" + ghs.getTotalMoneyEarned());
 
 
         System.out.println(rakshith);
 
-        mellisa.receiveSalary(mellisa.getSalary());
+        Pam.receiveSalary(Pam.getSalary());
 
-        System.out.println(mellisa);
+        System.out.println(Pam);
 
 
     }
